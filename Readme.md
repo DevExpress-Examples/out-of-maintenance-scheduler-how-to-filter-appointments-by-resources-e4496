@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DevExpressMvcApplication1/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DevExpressMvcApplication1/Controllers/HomeController.vb))
+* [Scheduling.cs](./CS/DevExpressMvcApplication1/Models/Scheduling.cs) (VB: [Scheduling.vb](./VB/DevExpressMvcApplication1/Models/Scheduling.vb))
+* [Scripts.js](./CS/DevExpressMvcApplication1/Scripts/Scripts.js) (VB: [Scripts.js](./VB/DevExpressMvcApplication1/Scripts/Scripts.js))
+* [Index.cshtml](./CS/DevExpressMvcApplication1/Views/Home/Index.cshtml)
+* [ResourcesPartial.cshtml](./CS/DevExpressMvcApplication1/Views/Home/ResourcesPartial.cshtml)
+* [SchedulerPartial.cshtml](./CS/DevExpressMvcApplication1/Views/Home/SchedulerPartial.cshtml)
+<!-- default file list end -->
 # Scheduler - How to filter appointments by resources
 
 

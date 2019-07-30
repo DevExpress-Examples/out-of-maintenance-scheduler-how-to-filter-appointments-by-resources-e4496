@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # Scheduler - How to filter appointments by resources
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4496)**
+**[[Run Online]](https://codecentral.devexpress.com/e4496/)**
 <!-- run online end -->
 
 
